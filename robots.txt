@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /index.html
 
-Sitemap: https://melayangterbang.github.io/news/sitemaps.xml
+Sitemap: https://melayangterbang.github.io/News/sitemaps.xml
